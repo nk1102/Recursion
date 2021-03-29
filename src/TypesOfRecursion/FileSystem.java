@@ -1,7 +1,7 @@
 /**
  * Created File System example for recursion
  * This program will tell us the total space occupied by the system by various programs
- * And it will add the total disk space taken by user.
+ * And it will add the total disk space taken by that particular program.
  */
 package TypesOfRecursion;
 
