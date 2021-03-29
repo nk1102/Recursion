@@ -17,6 +17,6 @@ public class factorial {
         else if (n == 0)                   // this line states the factorial of 0 is 1
             return 1;
         else
-            return n * Factorial(n - 1); // for positive integer this recursive code runs.
+            return n * Factorial(n - 1); // for positi
     }
 }
